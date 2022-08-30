@@ -1,0 +1,15 @@
+C:\Users\anat\source\repos\TradeCategory\TradeCategory\obj\Debug\net6.0\TradeCategory.csproj.AssemblyReference.cache
+C:\Users\anat\source\repos\TradeCategory\TradeCategory\obj\Debug\net6.0\TradeCategory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anat\source\repos\TradeCategory\TradeCategory\obj\Debug\net6.0\TradeCategory.AssemblyInfoInputs.cache
+C:\Users\anat\source\repos\TradeCategory\TradeCategory\obj\Debug\net6.0\TradeCategory.AssemblyInfo.cs
+C:\Users\anat\source\repos\TradeCategory\TradeCategory\obj\Debug\net6.0\TradeCategory.csproj.CoreCompileInputs.cache
+C:\Users\anat\source\repos\TradeCategory\TradeCategory\bin\Debug\net6.0\TradeCategory.exe
+C:\Users\anat\source\repos\TradeCategory\TradeCategory\bin\Debug\net6.0\TradeCategory.deps.json
+C:\Users\anat\source\repos\TradeCategory\TradeCategory\bin\Debug\net6.0\TradeCategory.runtimeconfig.json
+C:\Users\anat\source\repos\TradeCategory\TradeCategory\bin\Debug\net6.0\TradeCategory.dll
+C:\Users\anat\source\repos\TradeCategory\TradeCategory\bin\Debug\net6.0\TradeCategory.pdb
+C:\Users\anat\source\repos\TradeCategory\TradeCategory\obj\Debug\net6.0\TradeCategory.dll
+C:\Users\anat\source\repos\TradeCategory\TradeCategory\obj\Debug\net6.0\refint\TradeCategory.dll
+C:\Users\anat\source\repos\TradeCategory\TradeCategory\obj\Debug\net6.0\TradeCategory.pdb
+C:\Users\anat\source\repos\TradeCategory\TradeCategory\obj\Debug\net6.0\TradeCategory.genruntimeconfig.cache
+C:\Users\anat\source\repos\TradeCategory\TradeCategory\obj\Debug\net6.0\ref\TradeCategory.dll
